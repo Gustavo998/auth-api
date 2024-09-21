@@ -1,0 +1,12 @@
+[
+	{
+		"_id": "b0ae08b2-ba18-40c1-8ac1-20b090ffd408",
+		"username": "tavo",
+		"password": "$2b$10$xsc8AwGiYnxP7CUrhfE5HOF/jD/dpTZyvm773nUSJLp06Mm.ps6la"
+	},
+	{
+		"_id": "5720669a-8b7b-4fae-8d0f-0e0adffdf254",
+		"username": "gus",
+		"password": "password"
+	}
+]
