@@ -26,3 +26,18 @@ Encender el servidor:
 ```
 
 Una vez el servidor de node este encendido, podemos acceder a los endpoints por medio del host localhost:3000. 
+## Documentación
+
+
+**HOST:** localhost:3000
+
+**BASE URL:** http://localhost:3000/api
+
+Para ver la Documentación de los endpoints del api, visita el siguiente link:
+
+**DOC URL:** http://localhost:3000/docs
+
+## Autor
+
+- [@GustavoBrand](#)
+
