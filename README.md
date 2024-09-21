@@ -1,7 +1,7 @@
 
 # AUTHENTICATION API
 
-Api para testear y probar autenticación de usuarios.
+Api para testear la autenticación de usuarios.
 
 
 ## Instalación
