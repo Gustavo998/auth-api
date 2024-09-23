@@ -35,7 +35,7 @@ const options = {
 		]
 	},
 	// looks for configuration in specified directories
-	apis: ['./user-repository.js'],
+	apis: ['./user-repository.js', './post-repository.js'],
 }
 const swaggerSpec = swaggerJsdoc(options)
 function swaggerDocs(app, port) {
